@@ -7,7 +7,7 @@
 <br/>
 
 
-## 🌹 It's Me 🌹
+## ✨ It's Me ✨ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingsoo95&theme=flag-india&show_icons=true)
 
 
